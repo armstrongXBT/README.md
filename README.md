@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/armstrongxbt"><img alt="github" src="https://img.shields.io/badge/GitHub-@armstrongxbt-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://twitter.com/armstrongXBT"><img alt="x" src="https://img.shields.io/badge/X-@armstrongXBT-1DA1F2?style=for-the-badge&logo=twitter"></a>
+  <a href="https://twitter.com/armstrong_XBT"><img alt="x" src="https://img.shields.io/badge/X-@armstrongXBT-1DA1F2?style=for-the-badge&logo=twitter"></a>
   <a href="mailto:your-email@example.com"><img alt="email" src="https://img.shields.io/badge/Email-contact-0078D4?style=for-the-badge&logo=gmail"></a>
 </p>
 
